@@ -42,4 +42,4 @@ Press "Reset Game" to start the game all over from choosing difficulty level
 
 Developed with HTML, CSS, JavaScript  
   
-This website serves as a project of Coding Academy at Upenn in summer 2023.
+This website serves as a project of Coding Academy at Upenn in summer 2023, developed together as a team.
